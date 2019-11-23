@@ -1,0 +1,7 @@
+dlib-19.18/*
+img/*
+**/__pycache__/*
+.idea/*
+.venv/*
+
+

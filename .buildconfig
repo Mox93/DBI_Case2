@@ -1,0 +1,10 @@
+[default]
+name=Default
+runtime=host
+config-opts=
+run-opts=
+prefix=/home/mohamed/.cache/gnome-builder/install/DBI_Case2/host
+app-id=
+postbuild=
+prebuild=
+default=true
